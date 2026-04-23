@@ -84,12 +84,4 @@ The chart shows how each club's league position evolved week by week, revealing 
 
 ---
 
-## About
-
-Built as part of a data analytics portfolio during an MSc in Applied Performance Analysis at the **University of Essex**.
-
-The project demonstrates end-to-end data work: raw event ingestion, domain-specific logic (goal attribution, tiebreak rules), iterative visual design, and front-end polish — all within a single reproducible notebook.
-
----
-
 *Data © StatsBomb. Club badges © Premier League. Project code MIT licensed.*
