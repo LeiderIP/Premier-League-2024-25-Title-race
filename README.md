@@ -1,2 +1,2 @@
 # Premier League 2024/25 — Title Race Visualiser
-... (pega el README aquí) ...
+
